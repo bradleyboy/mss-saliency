@@ -11,6 +11,7 @@
 #include <stdlib.h>
 #include <string>
 #include <getopt.h>
+#include <unistd.h>
 #include <sys/time.h>
 #include <Magick++.h>
 #include "SaliencyDetector.h"
